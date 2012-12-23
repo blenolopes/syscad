@@ -9,4 +9,4 @@ syscad
 Sobre
 =====
 
-	Simpels projeto de um sistema de cadastro de informações pessoais.
+Simpels projeto de um sistema de cadastro de informações pessoais.
